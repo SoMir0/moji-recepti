@@ -2,11 +2,18 @@
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
-    "fuzzysearch": {
-      "integrity": "sha1-3/yA9tawQiPyImqnndGUIxCW0Ag=",
-      "resolved": "https://registry.npmjs.org/fuzzysearch/-/fuzzysearch-1.0.3.tgz",
-      "version": "1.0.3"
-    },
     "simple-jekyll-search": "^1.9.2"
-  }
+  },
+  "name": "moji-recepti",
+  "description": "A recipe website made for someone I know.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoMir0/moji-recepti.git"
+  },
+  "author": "SoMir0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoMir0/moji-recepti/issues"
+  },
 }
