@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Grčki sladoled
-description: Torta Grčki sladoled
 tags: dezert torta
-minute: 120
 ---
-
-# Grčki sladoled
 
 ![Grčki sladoled torta](https://www.najbolji-recepti.com/wp-content/uploads/2015/08/34342.jpg)
 

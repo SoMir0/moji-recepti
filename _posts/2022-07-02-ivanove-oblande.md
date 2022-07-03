@@ -1,12 +1,8 @@
 ---
 layout: post
 title: Ivanove oblande
-description: Klasične Ivanove oblande
 tags: dezert kolač
-minute: 90
 ---
-
-# Ivanove oblande
 
 ![Ivanove oblande](https://i.ytimg.com/vi/t2sbNwDJrLI/maxresdefault.jpg)
 
